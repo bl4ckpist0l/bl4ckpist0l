@@ -56,5 +56,5 @@ Desarrollador full stack en transición hacia **pentesting de aplicaciones web y
 Abierto a oportunidades como **Junior Pentester / Analista de Seguridad Ofensiva**. Escríbeme por [LinkedIn](https://linkedin.com/in/juanvazquez-rem) o a **juanvazquez.e23@gmail.com**.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fa4332,100:0d1117&height=100&section=footer" alt="footer" />
 </div>
